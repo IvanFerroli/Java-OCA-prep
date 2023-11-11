@@ -1,0 +1,15 @@
+# Arquivos de compilação
+*.class
+
+# Arquivos de pacotes
+*.jar
+*.war
+*.ear
+
+# Arquivos de configuração
+*.log
+*.properties
+
+# Diretórios
+bin/
+target/
